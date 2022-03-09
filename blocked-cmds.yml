@@ -1,0 +1,10 @@
+console:
+  - /?
+  - /help
+  - /about
+  - /ver
+  - /pl
+  - /plugins
+  - /op
+  - /deop
+  - /save-all
