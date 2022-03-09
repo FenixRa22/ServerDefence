@@ -1,6 +1,6 @@
 name: ServerDefence
 main: FenixRa.ServerDefence.Main
-version: 2.2
+version: 2.3
 website: https://www.spigotmc.org/resources/100438/
 depend: [ProtocolLib]
 description: Server Defence system
